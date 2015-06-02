@@ -1,1 +1,3 @@
 # dddsample
+
+> think in ddd
